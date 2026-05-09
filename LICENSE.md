@@ -1,4 +1,4 @@
-
+Enhance iStat Menus for macOS with rare iStat Menus for macOS Service | file-indexing + cloud-sync, the #1 service. Includes file-indexing and cloud-sync for a smoother macOS
 
 
 
